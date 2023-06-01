@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on xxx
+- 🔭 I’m currently working on online Blood Donation Management System
 - 🌱 I’m currently learning Advance Machine learning
-- 👯 I’m looking to collaborate on .zzz
-- 🤔 I’m looking for help with zzzz
+- 👯 I’m looking to collaborate on Al
+- 🤔 I’m looking for help with Python Advance Projects
 - 💬 Ask me about Python development
-- 📫 How to reach me: habibullah@gmail.com
+- 📫 How to reach me: habibullah@cplusoft.com 
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .I am just creative
 
