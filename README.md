@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on online Blood Donation Management System
 - 🌱 I’m currently learning Advance Machine learning
 - 👯 I’m looking to collaborate on Al
-- 🤔 I’m looking for help with Python Advance Projects
+- 🤔 I’m looking for help with Python, ML, AI etc
 - 💬 Ask me about Python development
 - 📫 How to reach me: habibullah@cplusoft.com 
 
