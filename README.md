@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on online Blood Donation Management System
-- 🌱 I’m currently learning Advance Machine learning
+- 🔭 I’m currently working as a Freelancer
 - 👯 I’m looking to collaborate on Al
 - 🤔 I’m looking for help with Python, ML, AI etc
 - 💬 Ask me about Python development
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .I am just creative
 
 
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah&label=Profile%20views&color=0e75b6&style=flat" alt="sarah" /> </p>
 
